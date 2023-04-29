@@ -21,15 +21,14 @@ Users should be able to:
 
 - View the optimal layout for the component depending on their device's screen size
 
-### Screenshot
+### Screenshots
 
 ![Mobile Design](/design/mobile.png)
 ![Desktop Design](/design/desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://chat-dimoon2134.vercel.app/)
 
 ## My process
 
