@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://chat-dimoon2134.vercel.app/)
+- Live Site URL: [Vercel hosting](https://chat-dimoon2134.vercel.app/)
 
 ## My process
 
